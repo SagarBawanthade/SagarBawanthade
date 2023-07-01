@@ -25,7 +25,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/sagarbawanthade30.hashnode.dev(https://sagarbawanthade30.hashnode.dev/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sagarbawanthade30.hashnode.dev" height="30" width="40" /></a>
+<a href="https://sagarbawanthade30.hashnode.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sagarbawanthade30.hashnode.dev" height="30" width="40" /></a>
 <a href="https://twitter.com/@s__bawanthade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@s__bawanthade" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sagar-bawanthade-99450b27b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/sagar-bawanthade-99450b27b50b27b" height="30" width="40" /></a>
 <a href="https://instagram.com/sagar_bawanthade30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sagar_bawanthade30" height="30" width="40" /></a>
