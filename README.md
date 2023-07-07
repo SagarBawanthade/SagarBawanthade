@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/@s__bawanthade" target="blank"><img src="https://img.shields.io/twitter/follow/@s__bawanthade?logo=twitter&style=for-the-badge" alt="@s__bawanthade" /></a> </p>
 
-- 🔭 I’m currently working on **my FIRST MERN Stack Project.**
+- 🔭 I’m currently working on **my FIRST MERN Stack Project & Blogging.**
 
 - 🌱 I’m currently learning **DevOps**
 
