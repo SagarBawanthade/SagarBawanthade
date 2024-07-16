@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **DevOps**
 
-- 💬 Ask me about **NodeJs, Reactjs, expressJs, MongoDB, Java , DSA , SQL & DevOps**
+- 💬 Ask me about **NodeJs, Reactjs, expressJs, MongoDB, Java , DSA , SQL , Docker , Kuberntes & CICD**
 
 - 📫 How to reach me **sagar.bawanthade2004@gmail.com**
 
