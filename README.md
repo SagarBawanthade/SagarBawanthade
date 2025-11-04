@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=Ask+me+About+Cloud+%26+DevOps;I+love+to+Copy%2FPaste" alt="Typing SVG" />
 </p>
 
-🔭 I’m currently working on Kubernetes<br>🌱 I’m currently learning DevOps<br>💬 Ask me about Cloud & DevOps<br>⚡ I like Coffee with low sugar
+
 
 
 <img alt="Coder GIF" align="right" height=300 width=400 src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
@@ -12,7 +12,7 @@
 
 
 
-
+🔭 I’m currently working on Kubernetes<br>🌱 I’m currently learning DevOps<br>💬 Ask me about Cloud & DevOps<br>⚡ I like Coffee with low sugar
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
