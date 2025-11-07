@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, I am Sagar Bawanthade</h1>
+<h1 align="center">Hello 👋, I am Sagar Bawanthade </h1>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=Ask+me+About+Cloud+%26+DevOps;I+love+to+Copy%2FPaste" alt="Typing SVG" />
 </p>
