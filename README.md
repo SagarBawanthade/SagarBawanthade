@@ -15,7 +15,6 @@
 
 ---
 
-## 💻 MacOS Terminal Session
 
 <div align="center">
 
