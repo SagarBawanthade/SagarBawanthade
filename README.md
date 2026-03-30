@@ -2,6 +2,7 @@
 <div align="center
 # 👋 Hello, I'm Sagar Bawanthade
 
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&height=100&lines=Cloud+%26+DevOps+Engineer+%E2%98%81%EF%B8%8F;Infrastructure+Automation+Expert+%F0%9F%9A%80;Kubernetes+%7C+Terraform+%7C+AWS+%E2%98%B8%EF%B8%8F;CI%2FCD+Pipeline+Architect+%F0%9F%94%A7;Building+Scalable+Cloud+Systems+%F0%9F%8C%90;Automating+the+Future+%F0%9F%A4%96" alt="Typing SVG" />
 
 
