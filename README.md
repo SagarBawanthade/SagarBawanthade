@@ -53,7 +53,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openstack/openstack-original.svg" height="50" alt="OpenStack" title="OpenStack"/>
 </p>
 
-### 🐳 Container & Orchestration
+### 🐳 Containers & Orchestration
 
 <p>
 <img src="https://skillicons.dev/icons?i=docker" height="50" alt="Docker" title="Docker"/>
