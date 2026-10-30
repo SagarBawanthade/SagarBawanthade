@@ -283,7 +283,7 @@ mindmap
 
 <div align="center">
 
-### 📜 Certifications
+### 📜 Certification
 
 <img src="https://skillicons.dev/icons?i=kubernetes,docker,aws,linux" height="50"/>
 
