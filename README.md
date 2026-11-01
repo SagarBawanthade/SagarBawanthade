@@ -189,7 +189,7 @@
 
 ---
 
-## 💼 Professional Journey & Expertise
+## 💼 Professional Journey and Expertise
 
 <div align="center">
 
